@@ -1,3 +1,6 @@
+# LOCAL PACKAGE INSTALLATION
+-e .
+
 dvc
 dvc[gdrive]
 sklearn
